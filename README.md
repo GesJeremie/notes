@@ -1,3 +1,5 @@
+> :skull: This project has been archived.
+
 # Notes
 My notes about some stuff
 
